@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<DynamicHelp xmlns="http://msdn.microsoft.com/vsdata/xsd/vsdh.xsd" xmlns:xsi="http://www.w3.org/2000/10/XMLSchema-instance" xsi:schemaLocation="http://msdn.microsoft.com/vsdata/xsd/vsdh.xsd">	
+   <LINKGROUP ID="strategy" Title="strategy Reference Help" Priority="2100">
+      <GLYPH Expanded="vs:/ctxhelp_show.gif" Collapsed="vs:/ctxhelp_hide.gif"/>
+   </LINKGROUP>
+
+
+   <Context>
+      <Keywords>
+         <KItem Name="strategy.Contexto" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:strategy.chm::/topic_0000000000000001.html" LinkGroup="strategy">Contexto Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="strategy.FormatearFecha.Convertir" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:strategy.chm::/topic_000000000000000B.html" LinkGroup="strategy">Convertir Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="strategy.FormatearFecha" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:strategy.chm::/topic_0000000000000005.html" LinkGroup="strategy">FormatearFecha Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="strategy.FormatearFecha.FormatearFecha" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:strategy.chm::/topic_0000000000000007.html" LinkGroup="strategy">FormatearFecha Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="strategy.FormatoEuropeo" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:strategy.chm::/topic_000000000000000C.html" LinkGroup="strategy">FormatoEuropeo Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="strategy.FormatearFecha.FormatoEuropeo" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:strategy.chm::/topic_0000000000000008.html" LinkGroup="strategy">FormatoEuropeo Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="strategy.FormatoISO" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:strategy.chm::/topic_000000000000000E.html" LinkGroup="strategy">FormatoISO Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="strategy.FormatearFecha.FormatoISO" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:strategy.chm::/topic_0000000000000009.html" LinkGroup="strategy">FormatoISO Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="strategy.FormatoUSA" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:strategy.chm::/topic_0000000000000010.html" LinkGroup="strategy">FormatoUSA Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="strategy.FormatearFecha.FormatoUSA" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:strategy.chm::/topic_000000000000000A.html" LinkGroup="strategy">FormatoUSA Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="strategy.ITipoFecha" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:strategy.chm::/topic_0000000000000012.html" LinkGroup="strategy">ITipoFecha Interface</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="strategy.Program.Main" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:strategy.chm::/topic_0000000000000015.html" LinkGroup="strategy">Main Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="strategy.Contexto.ObtenerFormatoFecha" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:strategy.chm::/topic_0000000000000004.html" LinkGroup="strategy">ObtenerFormatoFecha Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="strategy.Program" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:strategy.chm::/topic_0000000000000014.html" LinkGroup="strategy">Program Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="strategy.Contexto.TipoFecha" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:strategy.chm::/topic_0000000000000003.html" LinkGroup="strategy">TipoFecha Property</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="strategy.FormatearFecha.contexto" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:strategy.chm::/topic_0000000000000006.html" LinkGroup="strategy">contexto Field</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="strategy.FormatoEuropeo.obtenerFormatoFecha" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:strategy.chm::/topic_000000000000000D.html" LinkGroup="strategy">obtenerFormatoFecha Method {strategy.FormatoEuropeo}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="strategy.FormatoISO.obtenerFormatoFecha" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:strategy.chm::/topic_000000000000000F.html" LinkGroup="strategy">obtenerFormatoFecha Method {strategy.FormatoISO}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="strategy.FormatoUSA.obtenerFormatoFecha" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:strategy.chm::/topic_0000000000000011.html" LinkGroup="strategy">obtenerFormatoFecha Method {strategy.FormatoUSA}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="strategy.ITipoFecha.obtenerFormatoFecha" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:strategy.chm::/topic_0000000000000013.html" LinkGroup="strategy">obtenerFormatoFecha Method {strategy.ITipoFecha}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="strategy" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:strategy.chm::/topic_0000000000000000.html" LinkGroup="strategy">strategy Namespace</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="strategy Reference" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:strategy.chm::/topic_0000000000000016.html" LinkGroup="strategy">strategy Reference</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="strategy.Contexto.tipoFecha" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:strategy.chm::/topic_0000000000000002.html" LinkGroup="strategy">tipoFecha Field</LItem>
+      </Links>
+   </Context>
+   
+
+</DynamicHelp>
+
